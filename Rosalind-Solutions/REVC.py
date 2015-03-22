@@ -1,4 +1,4 @@
-#ComplementDNA
+#Find Complement DNA
 lines = raw_input()
 
 new = lines[::-1]
