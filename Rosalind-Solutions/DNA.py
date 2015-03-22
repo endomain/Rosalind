@@ -1,4 +1,4 @@
-
+#Counting Nucleotides in DNA sequence
 file1 = open(raw_input("Type your input file name exactly: "), 'r')
 lines = file1.readlines()
 file1.close()
