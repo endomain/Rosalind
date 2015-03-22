@@ -1,3 +1,10 @@
+"""
+Solution to a ROSALIND bioinformatics problem. 
+Rosalind ID: endomain
+URL: http://rosalind.info/problems/rna
+"""
+
+
 #Transcribe DNA into RNA
 file1 = open(raw_input("Type your input file name exactly: "), 'r')
 lines = file1.readlines()
