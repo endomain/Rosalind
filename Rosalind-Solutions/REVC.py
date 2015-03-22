@@ -1,3 +1,9 @@
+"""
+Solution to a ROSALIND bioinformatics problem. 
+Rosalind ID: endomain
+URL: http://rosalind.info/problems/dna
+"""
+
 #Find Complement DNA
 lines = raw_input()
 
