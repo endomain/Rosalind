@@ -1,3 +1,5 @@
+#Counting Nucleotides in DNA sequence
+
 """
 Solution to a ROSALIND bioinformatics problem. 
 Rosalind ID: endomain
