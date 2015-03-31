@@ -1,3 +1,9 @@
+"""
+Solution to a ROSALIND bioinformatics problem. 
+Rosalind ID: endomain
+URL: http://rosalind.info/problems/dna
+"""
+
 #Finding Motif in DNA
 s = str(raw_input())
 t = str(raw_input())
