@@ -4,7 +4,7 @@ Language: Python
 
 Profile: http://rosalind.info/users/endomain/
  
-# Descriptions of Problems:
+# Descriptions:
 
 Bioinformatics Stronghold: "algorithms underlying a variety of bioinformatics topics: computational mass spectrometry, alignment, dynamic programming, genome assembly, genome rearrangements, phylogeny, probability, string algorithms etc."
 
