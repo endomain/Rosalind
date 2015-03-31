@@ -1,7 +1,7 @@
 """
 Solution to a ROSALIND bioinformatics problem. 
 Rosalind ID: endomain
-URL: http://rosalind.info/problems/dna
+URL: http://rosalind.info/problems/sub
 """
 
 #Finding Motif in DNA
