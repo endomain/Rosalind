@@ -23,3 +23,7 @@
 [SUB](https://github.com/endomain/Rosalind/blob/master/Bioinformatics%20Stronghold/SUB.py): _Finding Motif in DNA_  
  
 [REVP](https://github.com/endomain/Rosalind/blob/master/Bioinformatics%20Stronghold/revp.ipynb): _Locating Restriction Sites_  
+
+[IPRB](https://github.com/endomain/Rosalind/blob/master/Bioinformatics%20Stronghold/iprb.ipynb): _Mendel's First Law_  
+
+[CONS](https://github.com/endomain/Rosalind/blob/master/Bioinformatics%20Stronghold/cons.ipynb): _Consensus and Profile_  
