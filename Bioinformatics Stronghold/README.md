@@ -22,3 +22,4 @@
  
 [SUB](https://github.com/endomain/Rosalind/blob/master/Bioinformatics%20Stronghold/SUB.py): _Finding Motif in DNA_  
  
+[REVP](https://github.com/endomain/Rosalind/blob/master/Bioinformatics%20Stronghold/revp.ipynb): _Locating Restriction Sites_  
